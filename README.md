@@ -2,9 +2,9 @@
 This project implements a classic number guessing game using JavaScript.
 
 ## Features:
-Generates a random number within a specified range.
-Provides hints to the user ("Too High", "Too Low", or "Correct").
-Tracks the number of guesses taken.
+1. Generates a random number within a specified range.
+2. Provides hints to the user ("Too High", "Too Low", or "Correct").
+3. Tracks the number of guesses taken.
 
 ## Getting Started:
 
@@ -12,21 +12,21 @@ Tracks the number of guesses taken.
 Basic understanding of HTML and JavaScript.
 
 ## Running the Game:
-Open the index.html file in a web browser.
-Enter your desired guess range (e.g., 1-100) and click "Start Game".
-Guess the randomly generated number by entering your guesses and clicking "Guess".
-The game will provide hints and track your attempts.
+1. Open the index.html file in a web browser.
+2. Enter your desired guess range (e.g., 1-100) and click "Start Game".
+3. Guess the randomly generated number by entering your guesses and clicking "Guess".
+4. The game will provide hints and track your attempts.
 
 ## Files:
 
-index.html: Contains the HTML structure and references the JavaScript file.
-script.js: Implements the game logic using JavaScript.
+1. index.html: Contains the HTML structure and references the JavaScript file.
+2. script.js: Implements the game logic using JavaScript.
 
 ## Future Enhancements:
 
-Implement difficulty levels with varying number ranges and guess limits.
-Add a "New Game" button to restart without refreshing the page.
-Track and display the highest score.
+1. Implement difficulty levels with varying number ranges and guess limits.
+2. Add a "New Game" button to restart without refreshing the page.
+3. Track and display the highest score.
 
 ### Note:
 
